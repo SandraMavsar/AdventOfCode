@@ -2,7 +2,7 @@
 
 | Day  | Title | Part One  | Part Two |
 | :---: | :---: | :---: | :---: |
-| Day 1  | Calorie Counting  | :star:  | :star:  |
+| Day 1  | [Calorie Counting](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day1/solution.py) | :star:  | :star:  |
 | Day 2 | Rock Paper Scissors  | :star:  | :star:  |
 | Day 3 | Rucksack Reorganization  | :star:  | :star:  |
 | Day 4 | Camp Cleanup  | :star:  | :star:  |

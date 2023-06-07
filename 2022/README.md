@@ -1,4 +1,4 @@
-### Table of Contents
+# Table of Contents
 
 | Day  | Title | Part One  | Part Two |
 | :---: | :---: | :---: | :---: |

@@ -1,3 +1,4 @@
+#--- Day 4: Camp Cleanup ---
 import string
 
 with open('input.txt') as f:

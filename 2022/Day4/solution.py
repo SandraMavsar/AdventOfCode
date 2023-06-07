@@ -1,3 +1,4 @@
+#--- Day 3: Rucksack Reorganization ---
 import re
 
 with open('input.txt') as f:

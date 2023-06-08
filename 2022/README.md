@@ -1,6 +1,6 @@
-# Table of Contents
+# 🎄 Table of Contents
 
-| Day  | Title | Part One  | Part Two |
+| Day  | Nme | Part One  | Part Two |
 | :---: | :---: | :---: | :---: |
 | Day 1  | [Calorie Counting](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day1/solution.py) | :star:  | :star:  |
 | Day 2 | [Rock Paper Scissors](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day2/solution.py)  | :star:  | :star:  |

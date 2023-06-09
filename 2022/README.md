@@ -1,4 +1,4 @@
-# 🎄 Table of Contents
+# 🎄 Calendar
 
 | Day  | Nme | Part One  | Part Two |
 | :---: | :---: | :---: | :---: |

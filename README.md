@@ -1,4 +1,4 @@
-# 🎄 AdventOfCode 🎄
+# 🎄 AdventOfCode
 Solutions for Advent of Code written in Python.
 
 :stars:[Advent of Code Website](https://adventofcode.com/):stars:

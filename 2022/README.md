@@ -6,8 +6,8 @@
 | Day 2 | [Rock Paper Scissors](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day2/solution.py)  | :star:  | :star:  |
 | Day 3 | [Rucksack Reorganization](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day3/solution.py)  | :star:  | :star:  |
 | Day 4 | [Camp Cleanup](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day4/solution.py)  | :star:  | :star:  |
-| Day 5 | Supply Stacks  | :star:  | :star:  |
-| Day 6 | Tuning Trouble  | :star:  | :star:  |
+| Day 5 | [Supply Stacks](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day5/solution.py) | :star:  | :star:  |
+| Day 6 | [Tuning Trouble](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day6/solution.py)  | :star:  | :star:  |
 | Day 7 | No Space Left On Device  | :star:  | :star:  |
 | Day 8 | Treetop Tree House  | :star:  | :star:  |
 | Day 9 | Rope Bridge  | :star:  | :star:  |

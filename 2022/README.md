@@ -1,6 +1,6 @@
 # 🎄 Calendar
 
-| Day  | Nme | Part One  | Part Two |
+| Day  | Name | Part One  | Part Two |
 | :---: | :---: | :---: | :---: |
 | Day 1  | [Calorie Counting](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_01/solution.py) | :star:  | :star:  |
 | Day 2 | [Rock Paper Scissors](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_02/solution.py)  | :star:  | :star:  |

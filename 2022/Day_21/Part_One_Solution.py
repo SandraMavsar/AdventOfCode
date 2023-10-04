@@ -18,9 +18,6 @@ with open('input.txt') as f:
         else:
             result[a[0]] = int(a[1].strip())
 
-#print(operation)
-#print(result)
-
 while("root" not in result):
    for key, value in operation.items():
        if value[0] in result and value[2] in result:
@@ -33,4 +30,4 @@ while("root" not in result):
            elif value[1] == "/":
                result[key] = result[value[0]] / result[value[2]]
 
-print(result["root"])
+print("Part One: ", result["root"])

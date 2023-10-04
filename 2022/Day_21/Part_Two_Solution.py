@@ -23,7 +23,7 @@ with open('input.txt') as f:
             result[a[0]] = int(a[1].strip())
 
 #print(operation)
-print(result)
+print("Part Two: ", result)
 
 y = 0
 while y == 0:

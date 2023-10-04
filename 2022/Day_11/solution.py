@@ -58,5 +58,5 @@ def solution(part):
         return sorted_items[-1][1] * sorted_items[-2][1]
 
 
-print("Part One Solution: ", solution(20))
-print("Part Two Solution: ", solution(10000))  # Chinese Remainder Theorem
+print("Part One: ", solution(20))
+print("Part Two: ", solution(10000))  # Chinese Remainder Theorem

@@ -23,7 +23,7 @@
 | Day 19 | [Not Enough Minerals](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_19/solution.py)  | :star:  | :star:  |
 | Day 20 | [Grove Positioning System](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_20/solution.py)  | |   |
 | Day 21 | [Monkey Math](https://github.com/SandraMavsar/AdventOfCode/tree/main/2022/Day_21) ([Part One](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_21/Part_One_Solution.py), [Part Two](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_21/Part_Two_Solution.py)) | :star:  | :star:  |
-| Day 22 | [Monkey Map](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_22/solution.py)  | |  |
+| Day 22 | [Monkey Map](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_22/solution.py)  | :star: |  |
 | Day 23 | [Unstable Diffusion](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_23/solution.py)  |   |   |
 | Day 24 | [Blizzard Basin](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_24/solution.py)  |   |   |
 | Day 25 | [Full of Hot Air](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_25/solution.py)  |   |  |

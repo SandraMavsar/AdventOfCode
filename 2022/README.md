@@ -9,8 +9,8 @@
 | Day 5 | [Supply Stacks](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_05/solution.py) | :star:  | :star:  |
 | Day 6 | [Tuning Trouble](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_06/solution.py) | :star:  | :star:  |
 | Day 7 | [No Space Left On Device](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_07/solution.py)  | :star:  | :star:  |
-| Day 8 | [Treetop Tree House](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_08/solution.py)  | :star:  |  |
-| Day 9 | [Rope Bridge](https://github.com/SandraMavsar/AdventOfCode/tree/main/2022/Day_09) ([Part One](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_09/Part_One_Solution.py), [Part Two](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_09/Part_Two_Solution.py)) | :star:  | :star:  |
+| Day 8 | [Treetop Tree House](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_08/solution.py)  | :star:  | :star:  |
+| Day 9 | [Rope Bridge](https://github.com/SandraMavsar/AdventOfCode/tree/main/2022/Day_09) ([Part One](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_09/Part_One_Solution.py), [Part Two](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_09/Part_Two_Solution.py)) | :star:  | |
 | Day 10 | [Cathode-Ray Tube](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_10/solution.py)  | :star:  | :star:  |
 | Day 11 | [Monkey in the Middle](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_11/solution.py)  | :star:  | :star:  |
 | Day 12 | [Hill Climbing Algorithm](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_12/solution.py)  |  |  |

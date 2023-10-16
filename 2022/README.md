@@ -13,7 +13,7 @@
 | Day 9 | [Rope Bridge](https://github.com/SandraMavsar/AdventOfCode/tree/main/2022/Day_09) ([Part One](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_09/Part_One_Solution.py), [Part Two](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_09/Part_Two_Solution.py)) | :star:  | |
 | Day 10 | [Cathode-Ray Tube](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_10/solution.py)  | :star:  | :star:  |
 | Day 11 | [Monkey in the Middle](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_11/solution.py)  | :star:  | :star:  |
-| Day 12 | [Hill Climbing Algorithm](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_12/solution.py)  |  |  |
+| Day 12 | [Hill Climbing Algorithm](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_12/solution.py)  | :star:  | :star:  |
 | Day 13 | [Distress Signal](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_13/solution.py)  |   |  |
 | Day 14 | [Regolith Reservoir](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_14/solution.py)  | :star:  | :star:  |
 | Day 15 | [Beacon Exclusion Zone](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day_15/solution.py)  |  |  |

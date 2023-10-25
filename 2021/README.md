@@ -2,15 +2,15 @@
 
 | Day  | Title | Part One | Part Two |
 | :---: | :---: | :---: |:--------:|
-| Day 1  | [Sonar Sweep](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day1/solution.py) | :star: |  :star:  |
-| Day 2 | [Dive!](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day2/solution.py)  | :star: |  :star:  |
-| Day 3 | [Binary Diagnostic](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day3/solution.py)  | :star: |  :star:  |
-| Day 4 | [Giant Squid](https://github.com/SandraMavsar/AdventOfCode/blob/main/2022/Day4/solution.py)  | :star: |  :star:  |
-| Day 5 | Hydrothermal Venture  | :star: |          |
-| Day 6 | Lanternfish  | :star: |  :star:  |
-| Day 7 | The Treachery of Whales  | :star: |  :star:  |
-| Day 8 | Seven Segment Search  | :star: |          |
-| Day 9 | Smoke Basin | :star: |  :star:  |
+| Day 1  | [Sonar Sweep](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_01/solution.py) | :star: |  :star:  |
+| Day 2 | [Dive!](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_02/solution.py)  | :star: |  :star:  |
+| Day 3 | [Binary Diagnostic](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_03/solution.py)  | :star: |  :star:  |
+| Day 4 | [Giant Squid](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_04/solution.py)  | :star: |  :star:  |
+| Day 5 | [Hydrothermal Venture](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_05/solution.py)  | :star: |          |
+| Day 6 | [Lanternfish](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_06/solution.py)  | :star: |  :star:  |
+| Day 7 | [The Treachery of Whales](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_07/solution.py)  | :star: |  :star:  |
+| Day 8 | [Seven Segment Search](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_08/solution.py)  | :star: |          |
+| Day 9 | [Smoke Basin](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_09/solution.py) | :star: |  :star:  |
 | Day 10 | Syntax Scoring  | |          |
 | Day 11 | Dumbo Octopus  | |          |
 | Day 12 | Passage Pathing  | |          |

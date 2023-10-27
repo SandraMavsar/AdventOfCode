@@ -16,7 +16,7 @@
 | Day 12 |     [Passage Pathing](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_12/solution.py)     | :star: |  :star:  |
 | Day 13 |   [Transparent Origami](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_13/solution.py)   | |          |
 | Day 14 | [Extended Polymerization](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_14/solution.py) | :star: |  :star:  |
-| Day 15 |                                                  Chiton                                                   | |          |
+| Day 15 |         [Chiton](https://github.com/SandraMavsar/AdventOfCode/blob/main/2021/Day_15/solution.py)          | |          |
 | Day 16 |                                              Packet Decoder                                               | |          |
 | Day 17 |                                                Trick Shot                                                 | |          |
 | Day 18 |                                                 Snailfish                                                 | |          |

@@ -1,7 +1,6 @@
-# --- Day 15: Chiton ---
+# --- Day 13: Transparent Origami ---
 
 with open('input.txt') as f:
     data = f.read().split("\n")
-    map = [list(map(int, element)) for element in data]
-    print(map)
+
 

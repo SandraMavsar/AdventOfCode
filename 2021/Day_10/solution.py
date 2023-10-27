@@ -48,5 +48,6 @@ for line in data:
         if verified[1] != 0:
             incomplete_count.append(verified[1])
 
+
 print("Part One: ", illegal_count)
 print("Part Two: ", sorted(incomplete_count)[int(len(incomplete_count)/2)])

@@ -2,8 +2,8 @@
 
 | Day  |                                                Name                                                | Part One  | Part Two |
 | :---: |:--------------------------------------------------------------------------------------------------:| :---: | :---: |
-| Day 1  | [Calorie Counting](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_01/solution.py) | :star:  | :star:  |
-| Day 2 |                                                                                                    |   |  |
+| Day 1  | [Trebuchet?!](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_01/solution.py) |  | |
+| Day 2 | [Cube Conundrum](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_02/solution.py) | :star:  | :star:  |
 | Day 3 |                                                                                                    |   |  |
 | Day 4 |                                                                                                    |   |  |
 | Day 5 |                                                                                                    |   |  |

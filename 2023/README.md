@@ -5,9 +5,9 @@
 | Day 1  | [Trebuchet?!](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_01/solution.py) |  | |
 | Day 2 | [Cube Conundrum](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_02/solution.py) | :star:  | :star:  |
 | Day 3 |                                                                                                    |   |  |
-| Day 4 |                                                                                                    |   |  |
+| Day 4 |[Scratchcards](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_04/solution.py) | :star:  | :star:  |
 | Day 5 |                                                                                                    |   |  |
-| Day 6 |                                                                                                    |   |  |
+| Day 6 |[Wait For It](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_06/solution.py) | :star:  | :star:  |
 | Day 7 |                                                                                                    |   |  |
 | Day 8 |                                                                                                    |   |  |
 | Day 9 |                                                                                                    |   |  |

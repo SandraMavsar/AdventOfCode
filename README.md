@@ -7,4 +7,4 @@ Solutions for Advent of Code written in Python.
 | ------------- | ------------- |
 | 2022  | 30/50 :star: |
 | 2021  | 24/50 :star:  |
-| 2023  | 2/50 :star:  |
+| 2023  | 6/50 :star:  |

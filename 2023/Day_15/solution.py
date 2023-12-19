@@ -1,6 +1,4 @@
 # --- Day 15: Lens Library ---
-<<<<<<< Updated upstream
-=======
 
 def part_one(lines):
     result = 0
@@ -12,8 +10,6 @@ def part_one(lines):
             value %= 256
         result += value
     return result
->>>>>>> Stashed changes
-
 
 with open('input.txt') as f:
     lines = f.read().strip().split(',')

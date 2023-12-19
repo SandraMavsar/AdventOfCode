@@ -10,7 +10,7 @@
 | Day 6 |  [Wait For It](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_06/solution.py)   |  :star: | :star:  |
 | Day 7 |                                                                                                  |      |  |
 | Day 8 |[Haunted Wasteland](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_08) |  :star: | :star:  |
-| Day 9 |                                                                                                  |      |  |
+| Day 9 |[Mirage Maintenance](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_09) |  :star: | :star:  |
 | Day 10 |                                                                                                  |      |  |
 | Day 11 |                                                                                                  |      |  |
 | Day 12 |                                                                                                  |      |  |

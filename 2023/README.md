@@ -12,7 +12,7 @@
 | Day 8 |[Haunted Wasteland](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_08) |  :star: | :star:  |
 | Day 9 |[Mirage Maintenance](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_09) |  :star: | :star:  |
 | Day 10 |[Pipe Maze](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_10) |  :star: | :star:  |
-| Day 11 |                                                                                                  |      |  |
+| Day 11 |[Cosmic Expansion](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_11) |  :star: | :star:  |
 | Day 12 |                                                                                                  |      |  |
 | Day 13 |                                                                                                  |      |  |
 | Day 14 |                                                                                                  |      |  |

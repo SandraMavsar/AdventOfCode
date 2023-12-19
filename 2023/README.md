@@ -2,7 +2,7 @@
 
 | Day  |                                               Name                                               | Part One | Part Two |
 | :---: |:------------------------------------------------------------------------------------------------:|:----:| :---: |
-| Day 1  |  [Trebuchet?!](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_01/solution.py)   |  :star: | |
+| Day 1  |  [Trebuchet?!](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_01/solution.py)   |  :star: |:star: |
 | Day 2 | [Cube Conundrum](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_02/solution.py) |  :star: | :star:  |
 | Day 3 |  [Gear Ratios](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_03/solution.py)   |  :star: |  |
 | Day 4 |  [Scratchcards](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_04/solution.py)  |  :star: | :star:  |

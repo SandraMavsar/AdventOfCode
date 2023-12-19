@@ -1,52 +1,44 @@
-# --- Day 1: Trebuchet?! ---
+import re
 
-def part_one():
-    total_sum_part1 = 0
-    for line in data:
-        digits_only = [char for char in line if char.isdigit()]
-        current = digits_only[0] + digits_only[-1]
-        total_sum_part1 += int(current)
-    return total_sum_part1
+def find_number(input_number):
+    # Dictionary to pair strings to numbers
+    word_dict = {'one': '1', 'two': '2', 'three': '3', 'four': '4', 'five': '5', 'six': '6', 'seven': '7', 'eight': '8',
+                 'nine': '9'}
+    if input_number in word_dict.keys():
+        real_number = word_dict.get(input_number)
+        return real_number
+    else:
+        return str(input_number)
 
+part_one = 0
+part_two = 0
 
-def part_two():
-    total_sum_part2 = 0
-    for line in data:
-        line = line.strip("\n")
-        current = ''
-        print(line)
-        digits_only = [char for char in line if char.isdigit()]
-        substring = ["nine", "eight", "seven", "one", "two", "three", "four", "five", "six", "eight", ]
-        values = {"one": 1, "two": 2, "three": 3, "four": 4, "five": 5, "six": 6, "seven": 7, "eight": 8, "nine": 9}
-        index_one = line.index(digits_only[0])
-        index_two = line.index(digits_only[-1])
-        for length in range(0, index_one + 1):
-            if current == '':
-                for subs in substring:
-                    if subs in line[0:length]:
-                        current = str(values[subs])
-        line = current + line
-        index_two += 1
-        current = ''
-        backward = ''
-        if current == '':
-            for char in line[::-1]:
-                backward = char + backward
-                if len(line) - len(backward) == index_two:
-                    break
-                else:
-                    for subs in substring:
-                        if subs in backward:
-                            current = str(values[subs])
-                            break
-        line = line + current
-        print("end", line)
+with open("input.txt", 'r') as f:
+    for line in f:
+        digits = re.findall(r'\d', line)
+        if len(digits) == 1:
+            result = int(str(digits[0]) + str(digits[0]))
+            part_one += result
+        else:
+            result = int(str(digits[0]) + str(digits[-1]))
+            part_one += result
 
-    return total_sum_part2
+        elements = re.findall(r'\d|one|two|three|four|five|six|seven|eight|nine', line)
+        for item in elements:
+            # Addresses strings tied together
+            num = find_number(item)
+            new_sub = item[0] + num + item[-1]
+            line = re.sub(item, new_sub, line)
+        elements = re.findall(r'\d|one|two|three|four|five|six|seven|eight|nine', line)
+        if len(elements) == 1:
+            number = find_number(elements[0])
+            result = int(number + number)
+            part_two += result
+        else:
+            front = find_number(elements[0])
+            back = find_number(elements[-1])
+            result = int(front + back)
+            part_two += result
 
-with open('input.txt') as f:
-    with open('input.txt') as f:
-        data = f.readlines()
-
-#print("Part One: ", part_one())
-print("Part Two: ", part_two())
+print("Part One: ", part_one)
+print("Part Two: ", part_two)

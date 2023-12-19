@@ -15,7 +15,7 @@
 | Day 11 |[Cosmic Expansion](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_11) |  :star: | :star:  |
 | Day 12 |                                                                                                  |      |  |
 | Day 13 |                                                                                                  |      |  |
-| Day 14 |                                                                                                  |      |  |
+| Day 14 |[Parabolic Reflector Dish](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_14) |  :star: |  |
 | Day 15 |                                                                                                  |      |  |
 | Day 16 |                                                                                                  |      |  |
 | Day 17 |                                                                                                  |      |  |

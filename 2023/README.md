@@ -16,7 +16,7 @@
 | Day 12 |                                                                                                  |      |  |
 | Day 13 |                                                                                                  |      |  |
 | Day 14 |[Parabolic Reflector Dish](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_14) |  :star: |  |
-| Day 15 |                                                                                                  |      |  |
+| Day 15 |[Lens Library](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_15) |  :star: |  |
 | Day 16 |                                                                                                  |      |  |
 | Day 17 |                                                                                                  |      |  |
 | Day 18 |                                                                                                  |      |  |

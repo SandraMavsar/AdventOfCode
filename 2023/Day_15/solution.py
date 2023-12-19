@@ -1,4 +1,4 @@
-# --- Day 14: Parabolic Reflector Dish ---
+# --- Day 15: Lens Library ---
 
 
 with open('input.txt') as f:

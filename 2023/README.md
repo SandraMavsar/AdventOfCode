@@ -8,7 +8,7 @@
 | Day 4 |  [Scratchcards](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_04/solution.py)  |  :star: | :star:  |
 | Day 5 |  [If You Give A Seed A Fertilizer](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_05/solution.py)  |  :star: | :star:  |
 | Day 6 |  [Wait For It](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_06/solution.py)   |  :star: | :star:  |
-| Day 7 |                                                                                                  |      |  |
+| Day 7 |  [Camel Cards](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_07)   |  :star: | :star:  |
 | Day 8 |[Haunted Wasteland](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_08) |  :star: | :star:  |
 | Day 9 |[Mirage Maintenance](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_09) |  :star: | :star:  |
 | Day 10 |[Pipe Maze](https://github.com/SandraMavsar/AdventOfCode/blob/main/2023/Day_10) |  :star: | :star:  |
